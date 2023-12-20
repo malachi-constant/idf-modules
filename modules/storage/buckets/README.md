@@ -3,7 +3,6 @@
 ## Description
 
 This module creates the below AWS S3 buckets and policies:
-
   - Logs Data Bucket
   - Artifact Data Bucket
   - creates access policies for the buckets
