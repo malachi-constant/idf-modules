@@ -59,3 +59,4 @@ All modules in this repository adhere to the module strutucture defined in the t
 | Type | Description |
 | --- | --- |
 |  [DockerImages Replication Module](modules/replication/dockerimage-replication/README.md)  |  Deploys docker images replication module which replicates any docker image from public registry to an internal ECR repo(s)   |
+foobar
